@@ -1,3 +1,37 @@
+## 🔍 Detailed Features
+
+### 📱 Account & Profile
+- After logging in, the user can view their **personal account information**.  
+- Profile includes name, balance details, and a quick transaction summary.  
+- All transactions are linked to the user’s account, ensuring **secure access**.  
+
+### 💰 Balance & Currency Conversion
+- Users can convert their balance into **different currencies** based on real-time exchange rates.  
+- Exchange rates are fetched via an **API** and updated instantly.  
+- When a conversion is made, the balance is immediately recalculated and displayed.  
+
+### ₿ Crypto (Bitcoin & Coins)
+- The app supports not only fiat currency but also **Bitcoin and other cryptocurrencies**.  
+- **Buy & Sell prices** are updated in real-time via API.  
+- Users can track **charts and price trends** for cryptocurrencies.  
+- All buy/sell operations are recorded in the transaction history.  
+
+### 💳 Deposit & Withdrawal
+- Users can deposit money into their account (**Deposit**).  
+- Users can withdraw money from their wallet (**Withdraw**).  
+- If an invalid or negative amount is entered, the app shows an error message.  
+- Successful transactions update the balance and are logged in the history.  
+
+### 📊 Charts & Transaction History
+- All operations (**currency, crypto, deposit, withdrawal**) are listed in detail.  
+- Each transaction displays: **date, type, amount, and currency**.  
+- A dedicated chart screen allows users to track **price trends, portfolio changes, and past activities**.  
+
+### 🔒 Security & Privacy
+- All operations are **account-specific and secured**.  
+- Error handling ensures users are notified about invalid actions.  
+- User data is stored in a **private and encrypted** format for safety.  
+
 <img width="327" height="665" alt="Ekran Resmi 2025-02-25 17 48 05" src="https://github.com/user-attachments/assets/e6ca1d82-2059-40f2-90cb-596a9752fadb" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-02-25 at 17 48 32" src="https://github.com/user-attachments/assets/c582c3a7-608b-43cb-8833-907155ec784f" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-02-25 at 17 48 43" src="https://github.com/user-attachments/assets/d5f0f434-89a8-4443-a340-376305722f29" />
@@ -20,3 +54,24 @@
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-02-25 at 17 51 56" src="https://github.com/user-attachments/assets/f8c7015d-8b36-44ab-9a17-f1db2fe9c629" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-02-25 at 17 52 03" src="https://github.com/user-attachments/assets/01f03153-9927-43cc-b7d4-7159179dc28d" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-02-25 at 17 52 10" src="https://github.com/user-attachments/assets/72f1a7a6-8122-4d06-a15b-52e188badda7" />
+
+## 🚀 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sarafaizi/Guven_Bank.git
+   cd Guven_Bank
+2. Install dependencies:
+   ```bash
+   npm install
+   # or
+   yarn install
+
+3. Start the development server:
+   ```bash
+   npm start
+   # or
+   expo start
+
+
+
