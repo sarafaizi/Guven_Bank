@@ -38,6 +38,15 @@ https://github.com/user-attachments/assets/2fee3af8-3b5e-4ad1-8e74-bcdf51518159
 
 
 
+https://github.com/user-attachments/assets/a7735b09-f3e0-492a-a7fb-6a05ca4052ff
+
+
+
+
+https://github.com/user-attachments/assets/adcab2ed-8240-4a67-8756-54b066bbc136
+
+
+
 <img width="327" height="665" alt="Ekran Resmi 2025-02-25 17 48 05" src="https://github.com/user-attachments/assets/e6ca1d82-2059-40f2-90cb-596a9752fadb" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-02-25 at 17 48 32" src="https://github.com/user-attachments/assets/c582c3a7-608b-43cb-8833-907155ec784f" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-02-25 at 17 48 43" src="https://github.com/user-attachments/assets/d5f0f434-89a8-4443-a340-376305722f29" />
