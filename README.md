@@ -30,7 +30,13 @@
 ### 🔒 Security & Privacy
 - All operations are **account-specific and secured**.  
 - Error handling ensures users are notified about invalid actions.  
-- User data is stored in a **private and encrypted** format for safety.  
+- User data is stored in a **private and encrypted** format for safety.
+
+  
+
+https://github.com/user-attachments/assets/2fee3af8-3b5e-4ad1-8e74-bcdf51518159
+
+
 
 <img width="327" height="665" alt="Ekran Resmi 2025-02-25 17 48 05" src="https://github.com/user-attachments/assets/e6ca1d82-2059-40f2-90cb-596a9752fadb" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-02-25 at 17 48 32" src="https://github.com/user-attachments/assets/c582c3a7-608b-43cb-8833-907155ec784f" />
