@@ -90,5 +90,11 @@ https://github.com/user-attachments/assets/adcab2ed-8240-4a67-8756-54b066bbc136
 ## 🚀 Repo Backend link
    https://github.com/batuhannoz/invest-track
 
+## 👥 Contributors
+- Frontend: Sara Faizi
+- Backend: [@batuhannoz](https://github.com/batuhannoz)
+
+
+
 
 
